@@ -2,9 +2,9 @@
 <h3 align="center">A last-year Computer Engineering student.</h3>
 
 <h4>Reach Me</h4>
-- 📫 **erencanekinci20@gmail.com**
+- 📫 erencanekinci20@gmail.com
 <p></p>
-- 📫 **www.linkedin.com/in/erencan-ekinci-811a2624b/**
+- 📫 linkedin.com/in/erencan-ekinci-811a2624b/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
