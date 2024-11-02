@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erencan Ekinci</h1>
-<h3 align="center">A 3rd year Computer Engineering student at Karabuk University.</h3>
+<h3 align="center">A last-year Computer Engineering student.</h3>
 
 - 📫 How to reach me **erencanekinci20@gmail.com**
 
