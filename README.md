@@ -2,7 +2,7 @@
 <h3 align="center">A last-year Computer Engineering student.</h3>
 
 <h4>Reach Me</h4>
-- 📫 erencanekinci20@gmail.com
+- 📫 erencanekinci20@hotmail.com
 <p></p>
 - 📫 linkedin.com/in/erencan-ekinci-811a2624b/
 
