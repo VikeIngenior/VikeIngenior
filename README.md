@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erencan Ekinci</h1>
 <h3 align="center">A last-year Computer Engineering student.</h3>
 
-<h4>Reach Me</h4>
-- 📫 erencanekinci20@hotmail.com
-<p></p>
-- 📫 linkedin.com/in/erencan-ekinci-811a2624b/
+- 📫 Reach Me by e-mail **erencanekinci20@hotmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
