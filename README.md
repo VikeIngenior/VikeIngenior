@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Erencan Ekinci</h1>
-<h3 align="center">A last-year Computer Engineering student.</h3>
 
 - 📫 Reach Me by e-mail **erencanekinci20@hotmail.com**
 
